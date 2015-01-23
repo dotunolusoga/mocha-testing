@@ -1,0 +1,25 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "Learning JavaScript with Mocha and Chai",
+  "main": "app.js",
+  "dependencies": {
+    "chai": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotunolusoga/mocha-testing.git"
+  },
+  "author": "Adedotun Olusoga <adedotun.olusoga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotunolusoga/mocha-testing/issues"
+  },
+  "homepage": "https://github.com/dotunolusoga/mocha-testing"
+}
